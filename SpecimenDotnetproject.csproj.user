@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="ButtonConfigForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DeviceListForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FeatureListForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PadFileOperationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PromoScreenForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SetSignatureRectangleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SimpleDialogForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
